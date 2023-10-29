@@ -3,20 +3,10 @@
 	import Cloud from '../../components/Cloud.svelte';
 	import fitquest from '$lib/assets/fitquest.png'
 
-	const positions = []
-	for (let i = 0; i < 10; i++){
-		const x = Math.floor(Math.random()*120)
-		const y = Math.floor(-50 + Math.random()*200)
-		const duration = 800 +  Math.random() * 100
-		positions.push([x,y, duration])
-	}
 
 </script>
 
-<div class="sec-container morning-sky relative oveflow-x-hidden	">
-	{#each positions as [x,y, duration] }
-		<Cloud {x} {y} {duration}/>
-	{/each}
+<div class="sec-container morning-sky">
 	<section>
 		<Project
 			title={'#3 Fitquest'}

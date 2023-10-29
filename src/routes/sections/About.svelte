@@ -22,9 +22,7 @@
 					I'm a 4th year software engineering student in Addis Ababa University, Ethiopia.
 					Graduating in 2025.
 				</li>
-				<li>
-					The web development world is my jam. I'm seeking opportunities to absorb skills and apply.
-				</li>
+				<li>The web development world is my favorite. I want to excell at it.</li>
 				<li>
 					As a member of A2SV(Africa to Silicon Valley), I have learned Data Strucures and
 					Algorithms. I did 600+ questions in leetcode and codeforces.
@@ -79,4 +77,3 @@
 		background: linear-gradient(var(--space-dark), var(--night-blue));
 	}
 </style>
-

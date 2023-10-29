@@ -8,7 +8,7 @@
 </script>
 
 <section {id} class="flex flex-col lg:flex-row justify-between gap-5">
-	<div class="backdrop-blur max-w-sm z-10">
+	<div class="backdrop-blur max-w-sm ">
 		<h2 class="text-4xl oswald">
 			<a class={link?"underline":''} href={link}>
 				{title}
@@ -30,5 +30,5 @@
 			{/if}
 		</ul>
 	</div>
-	<img src={imageSrc} alt={title} class="rounded-md lg:max-w-[40vw] z-10" />
+	<img src={imageSrc} alt={title} class="rounded-md lg:max-w-[40vw] backdrop-blur" />
 </section>
