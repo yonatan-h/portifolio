@@ -35,26 +35,26 @@
 					<li><img src={email} alt="email" /> yonatanhaile.y@gmail.com</li>
 					
 					<li>
-						<a href="https://github.com/yonatan-h/">
+						<a class="underline" href="https://github.com/yonatan-h/">
 							<img src={github} alt="gitHub" />
 							GitHub</a
 						>
 					</li>
 					<li>
-						<a href="https://www.linkedin.com/in/yonatan-haile-demisse/">
+						<a class="underline" href="https://www.linkedin.com/in/yonatan-haile-demisse/">
 							<img src={linkedIn} alt="linkedIn" />
 							LinkedIn</a
 						>
 					</li>
 
 					<li>
-						<a href="https://leetcode.com/yonatan-h/">
+						<a class="underline" href="https://leetcode.com/yonatan-h/">
 							<img src={leetCode} alt="leetCode" />
 							LeetCode</a
 						>
 					</li>
 					<li>
-						<a href="https://codeforces.com/profile/yonatan-h">
+						<a class="underline" href="https://codeforces.com/profile/yonatan-h">
 							<img src={codeForces} alt="codeForces" />
 							Codeforces</a
 						>
