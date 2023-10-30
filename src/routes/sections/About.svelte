@@ -33,7 +33,7 @@
 		<div class="max-w-sm backdrop-blur">
 			<h2 class="text-4xl oswald">Skills</h2>
 
-			<div class="mt-5 flex gap-10">
+			<div class="mt-5 flex flex-wrap gap-10">
 				<div>
 					<h3 class="oswald text-2xl">Advanced</h3>
 					<ul>
