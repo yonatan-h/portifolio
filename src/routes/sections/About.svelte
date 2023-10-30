@@ -14,7 +14,7 @@
 		<Star {x} {y} fuzzy={Math.random() < 0.25} wait={true} />
 	{/each}
 
-	<section class="flex flex-col lg:flex-row justify-between gap-10 pb-40 pt-40">
+	<section class="flex flex-col lg:flex-row justify-between items-center gap-10 pb-40 pt-40">
 		<div class="max-w-sm backdrop-blur">
 			<h2 class="text-4xl oswald">About Me</h2>
 			<ul class="mt-5">
@@ -22,10 +22,10 @@
 					I'm a 4th year software engineering student in Addis Ababa University, Ethiopia.
 					Graduating in 2025.
 				</li>
-				<li>The web development world is my favorite. I want to excell at it.</li>
+				<li>The web development world is my favorite. I want to excel at it.</li>
 				<li>
-					As a member of A2SV(Africa to Silicon Valley), I have learned Data Strucures and
-					Algorithms. I did 600+ questions in leetcode and codeforces.
+					As a member of A2SV(Africa to Silicon Valley), I have learned Data Structures and
+					Algorithms. I did 600+ questions in LeetCode and Codeforces.
 				</li>
 			</ul>
 		</div>
@@ -33,7 +33,7 @@
 		<div class="max-w-sm backdrop-blur">
 			<h2 class="text-4xl oswald">Skills</h2>
 
-			<div class="mt-5 flex flex-wrap gap-10">
+			<div class="mt-5 flex flex-wrap md:flex-nowrap gap-10">
 				<div>
 					<h3 class="oswald text-2xl">Advanced</h3>
 					<ul>

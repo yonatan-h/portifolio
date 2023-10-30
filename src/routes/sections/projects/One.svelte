@@ -22,10 +22,10 @@
 			link={'https://github.com/yonatan-h/mirkusve2'}
 			imageSrc={mirkusve}
 			sentences={[
-				`After answering a LeetCode quesion, I had to upload the answer's code to GitHub and then attach it in A2SV's Google Sheets. It was tiresome.`,
+				`After answering a LeetCode question, I had to upload the answer code to GitHub and then attach it in A2SV's Google Sheets. It was tiresome.`,
 				'Mirkusve is a Chrome Extension that automates this process for A2SV students.'
 			]}
-			technologies={['React.js', 'Google Apps Script', 'Github Apps', 'Chrome Extensions']}
+			technologies={['React.js', 'Google Apps Script', 'GitHub Apps', 'Chrome Extensions']}
 		/>
 	</section>
 </div>

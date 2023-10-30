@@ -17,8 +17,8 @@
                  decided to do Fitquest as our first project.
                   It is a fitness app that schedules workout plans,
                    tracks nutrition, and finds nearby gyms`,
-				`I collaboratively created 60+ questionare questions to gather product requirements.
-                Using the feedback of the team, I designed 30+ pages of the app in Figma.`
+				`I collaboratively created 60+ questionnaire questions to gather product requirements.
+                Using the team's feedback, I designed 30+ pages of the app in Figma.`
 			]}
 			technologies={['Figma', 'Agile Software Development']}
 		/>

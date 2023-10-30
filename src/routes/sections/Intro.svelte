@@ -25,15 +25,16 @@
 		<div class="backdrop-blur max-w-md pt-40">
 			<h1 class="text-6xl lg:text-7xl oswald text-center">Hi, Its Yonatan</h1>
 			<p class="mt-10 text-center">
-				A Software engineering student based in Addis Ababa, Ethiopia. Seeking to solve problems in the <b>REAL WORLD</b>.
+				A Software engineering student based in Addis Ababa, Ethiopia. Eager to solve problems in
+				the <b>REAL WORLD</b>.
 			</p>
 
 			<ul class="links mt-10">
 				<div class="flex flex-wrap gap-5 justify-center">
-					<li>Name: Yonatan Haile Demisse</li>
-					<li><img src={phone} alt="phone" />+251911991199</li>
+					<li>Yonatan Haile Demisse</li>
+					<li><img src={phone} alt="phone" />+251919912900</li>
 					<li><img src={email} alt="email" /> yonatanhaile.y@gmail.com</li>
-					
+
 					<li>
 						<a class="underline" href="https://github.com/yonatan-h/">
 							<img src={github} alt="gitHub" />
