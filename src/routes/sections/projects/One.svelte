@@ -1,7 +1,7 @@
 <script>
 	import Project from '../../components/Project.svelte';
 	import Star from '../../components/Star.svelte';
-	import mirkusve from '$lib/assets/mirkusve.png'
+	import infoblender from '$lib/assets/infoblender.png'
 	const positions = [];
 
 	for (let i = 0; i < 20; i++) {
@@ -17,15 +17,18 @@
 	{/each}
 	<section>
 		<Project
-			title={'#1 Mirkusve'}
-			id={'mirkusve'}
-			link={'https://github.com/yonatan-h/mirkusve2'}
-			imageSrc={mirkusve}
+			title={'#1 Infoblender'}
+			link={'https://github.com/NathanZlion/Info_Blend'}
+			id={'infoblender'}
+			imageSrc={infoblender}
 			sentences={[
-				`After answering a LeetCode question, I had to upload the answer code to GitHub and then attach it in A2SV's Google Sheets. It was tiresome.`,
-				'Mirkusve is a Chrome Extension that automates this process for A2SV students.'
+				`It is a web app that gives you articles from 150,000 news sources. 
+				It let's you compare and contrast articles that discuss the same news event.`,
+				`I integrated the News API SDK it into our Express.js backend after researching thier 21 page documentation.`,
+				`I also implemented 5 pages using a minimalistic design style to make the website navigable.`,
 			]}
-			technologies={['React.js', 'Google Apps Script', 'GitHub Apps', 'Chrome Extensions']}
+			technologies={['React.js', 'Tailwind CSS', 'Framer Motion', 'Express.js', 'TypeScript']}
 		/>
+
 	</section>
 </div>

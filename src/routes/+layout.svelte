@@ -9,10 +9,11 @@
 		<nav>
 			<a href="#intro">Intro</a>
 			<a href="#about">About Me</a>
-			<a href="#mirkusve">1. Mirkusve</a>
-			<a href="#spark">2. Spark</a>
+			<a href="#infoblender">1. Infoblender</a>
+			<a href="#mirkusve">3. Mirkusve</a>
 			<a href="#fitquest">3. Fitquest</a>
-			<a href="#xrayremake">4. X-ray Remake</a>
+			<a href="#spark">4. Spark</a>
+			<a href="#achaye">5. Achaye</a>
 			<a href="#worktogether">Let's Work together</a>
 		</nav>
 	</aside>

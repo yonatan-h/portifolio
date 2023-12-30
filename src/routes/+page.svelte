@@ -9,6 +9,7 @@
 	import Contact from './sections/Contact.svelte';
 
     import Cloud from './components/Cloud.svelte';
+	import Five from './sections/projects/Five.svelte';
 
     const positions = []
     for (let i = 0; i < 15; i++){
@@ -33,6 +34,7 @@
     <Two/>
     <Three/>
     <Four/>
+    <Five/>
 </div>
 
 <Contact/>

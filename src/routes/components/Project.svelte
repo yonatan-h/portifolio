@@ -30,5 +30,5 @@
 			{/if}
 		</ul>
 	</div>
-	<img src={imageSrc} alt={title} class="rounded-md lg:max-w-[40vw] backdrop-blur" />
+	<img src={imageSrc} alt={title} class="rounded-md lg:max-w-[40vw] backdrop-blur object-cover" />
 </section>

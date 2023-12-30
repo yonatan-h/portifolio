@@ -1,23 +1,23 @@
 <script>
 	import Project from '../../components/Project.svelte';
-	import xrayremake from '$lib/assets/xrayremake.png';
+	import spark from '$lib/assets/spark.png';
 </script>
 
 <div class="sec-container morning-sky">
 	<section>
 		<Project
-			title={'#4 X-Ray Remake'}
-			link={'https://github.com/yonatan-h/x-ray-remake'}
-			id={'xrayremake'}
-			imageSrc={xrayremake}
-			sentences={[
-				`This school project was a redesigned version of an 
-				<a href="http://www.pnwx.com/" class="underline">user unfriendly medical equipment website</a>.`,
-				`Using Bootstrap, I styled our website with the team.`,
-				`Refactored the website to use a template engine to avoid redundant pages`
-			]}
-			technologies={['Bootstrap', 'EJS', 'Express.js']}
-		/>
+		title={'#4 Spark'}
+		id={'spark'}
+		link={'https://github.com/primequantuM4/Spark-Dating_Project-'}
+		imageSrc={spark}
+		sentences={[
+			`Spark is a school project made by a team of 10 students. It is a dating website made for Ethiopians. Users select their partner preferences, match, and text chat.`,
+			'I was fully responsible for the implementing the backend having user authentication, chatting, and matching.'
+		]}
+		technologies={[
+			'Express.js', 'MongoDB', 'WebSockets', 'Cookies'
+		]}
+	/>
 	</section>
 </div>
 
